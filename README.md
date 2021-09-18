@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jai-vignesh
 - 👀 I’m interested in a lot and changes different times
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me whatsapp- 8667242559
+- 📫 How to reach me whatsapp- 6379904730
 
 <!---
 Jai-vignesh24/Jai-vignesh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
